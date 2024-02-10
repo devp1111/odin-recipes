@@ -1,0 +1,33 @@
+*{
+    background-color: azure;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.title-box{
+    margin: 0px;
+}
+#title{
+    text-align: center;
+    background-color: darkblue;
+    color: aliceblue;
+    font-size: 72px;
+    margin-top: 0px;
+}
+
+.recipes{
+    text-align: center;
+    margin: 150px;
+    padding: 48px;
+}
+
+.lasagna,
+.pizza,
+.gelato{
+    text-align: center;
+    font-size: 48px;
+    color: black;
+    border: 5px crimson solid;
+    display: inline;
+    margin: 48px;
+    padding: 24px;
+}
