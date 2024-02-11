@@ -1,0 +1,42 @@
+body{
+    background-color: wheat;
+    font-size: 22px;
+}
+
+.title{
+    background-color: cornsilk;
+    color: darkred;
+    font-size: 72px;
+    margin: 0px 0px auto 0px;
+    padding: 2px
+}
+
+img{
+    border: 4px solid black;
+    margin: 8px 8px 8px 0px;
+}
+
+p{
+    border: 4px solid black;
+    margin-bottom: 8px;
+    padding: 8px;
+    width: 720px;
+    background-color: ghostwhite;
+}
+
+.recipe-box{
+    border: 4px solid black;
+    width: 1080px;
+    padding: 12px;
+    background-color: ghostwhite;
+}
+
+.recipe-box
+.ingredients, .instructions
+{
+    border: 2px solid black;
+    margin: 8px;
+    padding: 8px;
+    margin-left: 0px;
+    background-color: whitesmoke;
+}
